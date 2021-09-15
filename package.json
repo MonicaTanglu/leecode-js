@@ -1,0 +1,11 @@
+{
+  "name": "vue-antd-jeecg",
+  "version": "2.2.1",
+  "private": true,
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
